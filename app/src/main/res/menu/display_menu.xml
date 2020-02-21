@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/dialog_setting"
+        android:id="@+id/tv_test"
+        android:title="测试按钮" />
+
+</menu>
